@@ -1,7 +1,7 @@
-<h1 align="center">Zofi Here!!</h1>
+<h1 align="center">☁️Yooo.. Zofi Here!!</h1>
 
 <p align="center">
-  <img src="https://images2.alphacoders.com/134/1349795.png"/>
+  <img src="https://i.ibb.co.com/q3GDZ80z/Hutao-Kawai-Com.png"/>
 </p>
 
 ## 🚀 About Me
