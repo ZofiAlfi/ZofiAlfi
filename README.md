@@ -8,7 +8,7 @@
 - 👤 Pronouns: He/Him
 - 💻 Passionate about JavaScript, AI, and bot development  
 - 🌱 Currently learning advanced backend technologies  
-- 📧 Contact me at: **zofialfi@gmail.com**  
+- 📧 Contact me at: **mail@zofi.my.id**  
 - 📱 WhatsApp: **+6289523593571**
 - 🌐 Website: **[zofi.my.id](https://zofi.my.id)** 
 - 👨‍💼 Leader Company of Furnaleta
