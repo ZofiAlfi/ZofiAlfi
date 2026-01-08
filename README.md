@@ -1,12 +1,10 @@
 <h1 align="center">☁️Yooo.. Zofi Here!!</h1>
 
-<table align="center">
-  <tr>
-    <td> <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif"/></td>
-    <td><img src="https://media.tenor.com/p9ZQNPGhUSoAAAAi/hutao.gif"/></td>
-    <td><img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif"/></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:center; gap:10px;">
+  <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif">
+  <img src="https://media.tenor.com/p9ZQNPGhUSoAAAAi/hutao.gif">
+  <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif">
+</div>
 
 ## 🚀 About Me
 - 👤 Pronouns: He/Him
