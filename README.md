@@ -34,28 +34,16 @@
 
 ---
 
+### 📊 Visitors
 <div align="center">
   <details open>
     <summary><b> Profile Visitors</b></summary>
     <br>
     <a href="https://www.getloli.com/" target="_blank">
-      <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
+      <img alt="Cute Count" src="https://count.getloli.com/get/@Zofi?theme=rule34"/>
     </a>
   </details>
 </div>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zofialfi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zofialfi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zofialfi&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
 
 ---
 
