@@ -1,6 +1,6 @@
 <h1 align="center">☁️Yooo.. Zofi Here!!</h1>
 
-<div style="display:flex; justify-content:center; gap:10px;">
+<div style="display:flex; justify-content:center; gap:10px;" align="center">
   <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif">
   <img src="https://media.tenor.com/p9ZQNPGhUSoAAAAi/hutao.gif">
   <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif">
