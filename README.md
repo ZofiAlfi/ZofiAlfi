@@ -34,6 +34,16 @@
 
 ---
 
+<div align="center">
+  <details open>
+    <summary><b> Profile Visitors</b></summary>
+    <br>
+    <a href="https://www.getloli.com/" target="_blank">
+      <img alt="Cute Count" src="https://count.getloli.com/get/@Vianzz?theme=rule34"/>
+    </a>
+  </details>
+</div>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zofialfi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
