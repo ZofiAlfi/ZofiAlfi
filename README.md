@@ -1,8 +1,12 @@
 <h1 align="center">☁️Yooo.. Zofi Here!!</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co.com/q3GDZ80z/Hutao-Kawai-Com.png"/>
-</p>
+<table align="center">
+  <tr>
+    <td> <img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif"/></td>
+    <td><img src="https://media.tenor.com/p9ZQNPGhUSoAAAAi/hutao.gif"/></td>
+    <td><img src="https://media.tenor.com/hmYVvHn6-McAAAAi/genshin-impact-hu-tao.gif"/></td>
+  </tr>
+</table>
 
 ## 🚀 About Me
 - 👤 Pronouns: He/Him
