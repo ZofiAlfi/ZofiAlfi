@@ -36,13 +36,9 @@
 
 ### 📊 Visitors
 <div align="center">
-  <details open>
-    <summary><b> Profile Visitors</b></summary>
-    <br>
     <a href="https://www.getloli.com/" target="_blank">
       <img alt="Cute Count" src="https://count.getloli.com/get/@Zofi?theme=rule34"/>
     </a>
-  </details>
 </div>
 
 ---
